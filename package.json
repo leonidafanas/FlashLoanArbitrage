@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.3"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.18.0",
+    "@aave/protocol-v2": "^1.0.1",
+    "dotenv": "github:motdotla/dotenv",
+    "solc": "^0.8.10"
+  }
+}
